@@ -6,9 +6,9 @@ Aplikacja stworzona na potrzeby Workshop #3 dla Asseco Poland S.A.
 
 ## Zakres funkcjonalności projektu
 
-* [ ] Konfiguracja i dodanie Swagger2
-* [ ] Konfiguracja i dodanie Swagger UI
-* [ ] Konfiguracja i dodanie seriwsów
+* [x] Konfiguracja i dodanie Swagger2
+* [x] Konfiguracja i dodanie Swagger UI
+* [x] Konfiguracja i dodanie seriwsów
 
 
 ## O czym powiedzieć
