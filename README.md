@@ -1,6 +1,6 @@
 # Workshop Java Spring Freamework - RESTfull Web Services
 
-Aplikacja stworzona na potrzeby Workshop #3 dla Asseco Poland S.A.
+Aplikacja stworzona na potrzeby Workshop 
 
 ![](https://i.ytimg.com/vi/c0apqyro0-Y/maxresdefault.jpg)
 
